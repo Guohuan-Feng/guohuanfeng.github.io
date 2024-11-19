@@ -1,10 +1,9 @@
 ---
 # Display name
-title: 
+title: Guohuan Feng
 
 # Name pronunciation (optional)
-name_pronunciation: Guohuan Feng
-
+name_pronunciation: 
 # Full name (for SEO)
 first_name: Guohuan
 last_name: Feng
