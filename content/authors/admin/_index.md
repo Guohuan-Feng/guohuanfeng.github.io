@@ -9,8 +9,6 @@ first_name: Guohuan
 last_name: Feng
 
 # Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
