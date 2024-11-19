@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guohuan Feng
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Guohuan Feng
