@@ -20,8 +20,8 @@ role: Oakland University Computer Science Bachelor Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Oakland University
+    url: https://oakland.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
