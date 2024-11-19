@@ -35,8 +35,7 @@ profiles:
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/guohuanfeng/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    label: linkedin
   - icon: google-scholar
     url: https://scholar.google.com/citations?user=wcs6foEAAAAJ&hl=en
     label: Google Schola
