@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Oakland University Computer Science Bachelor Student
+role: Computer Science Bachelor Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
