@@ -37,6 +37,9 @@ profiles:
     url: https://www.linkedin.com/in/guohuanfeng/
   - icon: brands/instagram
     url: https://www.instagram.com/
+  - icon: google-scholar
+    url: https://scholar.google.com/citations?user=wcs6foEAAAAJ&hl=en
+    label: Google Schola
 
 education:
   - area: PhD Artificial Intelligence
