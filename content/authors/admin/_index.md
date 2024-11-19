@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 冯国桓
+title: Guohuan Feng
 
 # Name pronunciation (optional)
 name_pronunciation: Guohuan Feng
