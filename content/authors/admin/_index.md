@@ -25,7 +25,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:gfeng@oakland.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/gcushen
@@ -35,6 +35,9 @@ profiles:
   - icon: custom/google-scholar
     url: https://scholar.google.com/citations?user=wcs6foEAAAAJ&hl=en
     label: Google Scholar
+  - icon: custom/occid
+    url: https://orcid.org/0009-0001-4106-9579
+    label: occid
 
 education:
   - area: PhD Artificial Intelligence
