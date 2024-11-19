@@ -34,7 +34,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/guohuanfeng/
     label: linkedin
-  - icon: google-scholar-svgrepo-com.svg
+  - icon: google-scholar-svgrepo-com
     url: https://scholar.google.com/citations?user=wcs6foEAAAAJ&hl=en
     label: Google Scholar
 
