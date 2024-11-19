@@ -57,17 +57,30 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science
+    institution: Oakland University, Rochester, MI
+    date_start: 2023-09-01
+    date_end: 2025-05-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.96/4.0
+
+      Relevant Courses:
+      - Advanced Web Design & Application
+      - Data Structures and Algorithms
+      - Database Management Systems
+
+  - area: BEng Software Engineering
+    institution: Zhengzhou University of Light Industry, Zhengzhou, China
+    date_start: 2020-08-01
+    date_end: 2024-05-31
+    summary: |
+      GPA: 3.77/5.0; Ranking: 6/485
+
+      Relevant Courses:
+      - Object-Oriented Programming
+      - Software Engineering Principles
+      - Artificial Intelligence Fundamentals
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
