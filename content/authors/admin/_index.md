@@ -78,7 +78,7 @@ education:
 
 
 publications:
-  - title: Areo-LLM: A Distributed Framework for Secure UAV Communication and Intelligent Decision-Making
+  - title: Areo-LLM: A Distributed Framework for Secure UAV Communication and Intelligent Decision-Making1
     authors: Balakrishnan Dharmalingam, Brett Piggott, Guohuan Feng, et al.
     conference: 33rd International Conference on Computer Communications and Networks (ICCCN 2024)
     location: Big Island, U.S.
