@@ -14,7 +14,7 @@ last_name: Feng
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Bachelor Student
+role: Bachelor Science in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
