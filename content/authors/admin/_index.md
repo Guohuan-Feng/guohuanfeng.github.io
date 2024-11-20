@@ -87,18 +87,18 @@ education:
       - Software Engineering Principles
       - Artificial Intelligence Fundamentals
 
-publications:
-  - position: Software Developer Intern1
-    company_name: StartNation Inc.
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-03-01
-    date_end: 2024-06-30
-    summary: |2-
-      Responsibilities include:
-      - Utilized frontend technologies such as HTML5, CSS, and ECMAScript to ensure elegant page rendering and cross-device compatibility.
-      - Built dynamic user interfaces using React to enhance user experience.
-      - Collaborated with backend team to implement data exchange, ensuring smooth platform functionality.
+#### publications:
+####  - position: Software Developer Intern1
+####    company_name: StartNation Inc.
+####    company_url: ''
+####    company_logo: ''
+####    date_start: 2024-03-01
+####    date_end: 2024-06-30
+####    summary: |2-
+####      Responsibilities include:
+####      - Utilized frontend technologies such as HTML5, CSS, and ECMAScript to ensure elegant page rendering and cross-device compatibility.
+####      - Built dynamic user interfaces using React to enhance user experience.
+####      - Collaborated with backend team to implement data exchange, ensuring smooth platform functionality.
 
 
 
