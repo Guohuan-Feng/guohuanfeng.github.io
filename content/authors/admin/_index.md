@@ -78,7 +78,7 @@ education:
 
 
 publication:  
-- position: Software Developer Intern11111111111111
+- position: Software Developer Intern111111111111
     company_name: StartNation Inc.
     company_url: ''
     company_logo: ''
