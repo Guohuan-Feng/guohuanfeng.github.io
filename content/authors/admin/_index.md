@@ -78,13 +78,18 @@ education:
 
 
 publications:
-  - title: Areo-LLM: A Distributed Framework for Secure UAV Communication and Intelligent Decision-Making
-    authors: Balakrishnan Dharmalingam, Brett Piggott, Guohuan Feng, et al.
-    conference: 33rd International Conference on Computer Communications and Networks (ICCCN 2024)
-    location: Big Island, U.S.
-    date: 2024-07
-    summary: |
-      Proposed a distributed framework to optimize secure UAV communication and decision-making, achieving state-of-the-art results in anomaly detection with a 95% accuracy rate.
+  - position: Software Developer Intern1
+    company_name: StartNation Inc.
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-03-01
+    date_end: 2024-06-30
+    summary: |2-
+      Responsibilities include:
+      - Utilized frontend technologies such as HTML5, CSS, and ECMAScript to ensure elegant page rendering and cross-device compatibility.
+      - Built dynamic user interfaces using React to enhance user experience.
+      - Collaborated with backend team to implement data exchange, ensuring smooth platform functionality.
+
 
 
 work:
