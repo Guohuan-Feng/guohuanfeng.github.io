@@ -77,7 +77,14 @@ education:
       - Artificial Intelligence Fundamentals
 
 
-publication:  
+publications:
+  - title: Areo-LLM: A Distributed Framework for Secure UAV Communication and Intelligent Decision-Making
+    authors: Balakrishnan Dharmalingam, Brett Piggott, Guohuan Feng, et al.
+    conference: 33rd International Conference on Computer Communications and Networks (ICCCN 2024)
+    location: Big Island, U.S.
+    date: 2024-07
+    summary: |
+      Proposed a distributed framework to optimize secure UAV communication and decision-making, achieving state-of-the-art results in anomaly detection with a 95% accuracy rate.
 
 
 work:
