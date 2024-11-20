@@ -77,6 +77,26 @@ education:
       - Artificial Intelligence Fundamentals
 
 
+publications:
+  - title: Areo-LLM: A Distributed Framework for Secure UAV Communication and Intelligent Decision-Making
+    authors: Balakrishnan Dharmalingam, Brett Piggott, Guohuan Feng, et al.
+    conference: 33rd International Conference on Computer Communications and Networks (ICCCN 2024)
+    location: Big Island, U.S.
+    date: 2024-07
+    url: ''
+    summary: |
+      Proposed a distributed framework to optimize secure UAV communication and decision-making, achieving state-of-the-art results in anomaly detection with a 95% accuracy rate.
+
+  - title: Research on the Application of Binary Classification Dataset Based on Integrated Learning Model
+    authors: Jiaqi Huang, Chongyang Zheng, Guohuan Feng
+    conference: 2024 IEEE 2nd International Conference on Image Processing and Computer Applications (ICIPCA 2024)
+    location: Shenyang, China
+    date: 2024-06
+    url: ''
+    summary: |
+      Conducted research on binary classification models using integrated learning approaches, achieving over 93% accuracy in experimental results.
+
+
 work:
   - position: Software Developer Intern
     company_name: StartNation Inc.
