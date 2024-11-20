@@ -32,6 +32,9 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/guohuanfeng/
     label: linkedin
+  - icon: custom/orcid
+    url: https://orcid.org/0009-0001-4106-9579
+    label: orcid
   - icon: custom/google-scholar
     url: https://scholar.google.com/citations?user=wcs6foEAAAAJ&hl=en
     label: Google Scholar
