@@ -94,7 +94,7 @@ publications:
     date: 2024-06
     url: ''
     summary: |
-      Conducted research on binary classification models using integrated learning approaches, achieving over 93% accuracy in experimental results.
+      Conducted research on binary classification models using integrated learning approaches, achieving over 93% accuracy in experimental results.1
 
 
 work:
