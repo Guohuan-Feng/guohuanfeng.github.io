@@ -88,7 +88,7 @@ publications:
 
 
 work:
-  - position: Software Developer Intern11111111111111
+  - position: Software Developer Intern
     company_name: StartNation Inc.
     company_url: ''
     company_logo: ''
