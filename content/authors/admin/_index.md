@@ -76,29 +76,55 @@ education:
       - Software Engineering Principles
       - Artificial Intelligence Fundamentals
 
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Software Developer Intern
+    company_name: StartNation Inc.
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-03-01
+    date_end: 2024-06-30
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Utilized frontend technologies such as HTML5, CSS, and ECMAScript to ensure elegant page rendering and cross-device compatibility.
+      - Built dynamic user interfaces using React to enhance user experience.
+      - Collaborated with backend team to implement data exchange, ensuring smooth platform functionality.
+
+  - position: Grader for CSI-3640
+    company_name: Oakland University (OU)
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-01-01
+    date_end: 2024-05-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Delivered practical lab sessions on TCP/IP protocols, facilitating hands-on learning and critical thinking.
+      - Supported students in achieving A or B grades (>85%), significantly improving overall course performance.
+work:
+  - position: Software Developer Intern11111111111111
+    company_name: StartNation Inc.
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-03-01
+    date_end: 2024-06-30
+    summary: |2-
+      Responsibilities include:
+      - Utilized frontend technologies such as HTML5, CSS, and ECMAScript to ensure elegant page rendering and cross-device compatibility.
+      - Built dynamic user interfaces using React to enhance user experience.
+      - Collaborated with backend team to implement data exchange, ensuring smooth platform functionality.
+
+  - position: Grader for CSI-3640
+    company_name: Oakland University (OU)
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-01-01
+    date_end: 2024-05-31
+    summary: |
+      Responsibilities include:
+      - Delivered practical lab sessions on TCP/IP protocols, facilitating hands-on learning and critical thinking.
+      - Supported students in achieving A or B grades (>85%), significantly improving overall course performance.
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
