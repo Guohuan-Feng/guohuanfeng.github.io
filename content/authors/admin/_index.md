@@ -194,6 +194,32 @@ languages:
   - name: Portuguese
     percent: 25
 
+
+
+work:
+  - position: Software Developer Intern112345
+    company_name: StartNation Inc.
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-03-01
+    date_end: 2024-06-30
+    summary: |2-
+      Responsibilities include:
+      - Utilized frontend technologies such as HTML5, CSS, and ECMAScript to ensure elegant page rendering and cross-device compatibility.
+      - Built dynamic user interfaces using React to enhance user experience.
+      - Collaborated with backend team to implement data exchange, ensuring smooth platform functionality.
+
+  - position: Grader for CSI-3640
+    company_name: Oakland University (OU)
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-01-01
+    date_end: 2024-05-31
+    summary: |
+      Responsibilities include:
+      - Delivered practical lab sessions on TCP/IP protocols, facilitating hands-on learning and critical thinking.
+      - Supported students in achieving A or B grades (>85%), significantly improving overall course performance.
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
