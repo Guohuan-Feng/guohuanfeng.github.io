@@ -75,7 +75,17 @@ education:
       - Object-Oriented Programming
       - Software Engineering Principles
       - Artificial Intelligence Fundamentals
+  - area: Bng Software Engineering
+    institution: Zhengzhou University of Light Industry, Zhengzhou, China
+    date_start: 2020-08-01
+    date_end: 2024-05-31
+    summary: |
+      GPA: 3.77/5.0; Ranking: 6/485
 
+      Relevant Courses:
+      - Object-Oriented Programming
+      - Software Engineering Principles
+      - Artificial Intelligence Fundamentals
 
 publications:
   - position: Software Developer Intern1
